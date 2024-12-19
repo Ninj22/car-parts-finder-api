@@ -1,3 +1,5 @@
+Final resolved content
+
 # Car Parts Finder API
 
 ## Overview
@@ -234,4 +236,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 
+
+=======
+# car-parts-finder-api
+Final resolved content
 
